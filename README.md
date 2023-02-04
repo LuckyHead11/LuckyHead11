@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python, and other syntax.**
 
-- 📫 How to reach me **jkkirby4911@gmail.com**
+- 📫 How to reach me **jkirby4911@gmail.com**
 
 - ⚡ Fun fact **I don't have the ability to sleep.**
 
