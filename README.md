@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua kirby</h1>
-<h3 align="center">I am a early high-school python student, ready to learn new things.</h3>
+<h3 align="center">I am a middleschool python student, ready to learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyhead11&label=Profile%20views&color=0e75b6&style=flat" alt="luckyhead11" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jkirby4911@gmail.com**
 
-- ⚡ Fun fact **I don't have the ability to sleep.**
+- ⚡ Fun fact **I code for my school Robotics Team! FTC (First Tech Challenge) My school has tons of trophys.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
