@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luckyhead11" alt="luckyhead11" /></a> </p>
 
-- 🔭 I’m currently working on **Plotting Pedro**
+- 🔭 I’m currently working on **FTC 14840 Robotics**
 
 - 🌱 I’m currently learning **Frameworks, interesting libraries**
 
